@@ -1,0 +1,1 @@
+THIS is web development journey where i'll will be showing my progression from a novice development into a junior web developer and showing different project which ill will soon create 
