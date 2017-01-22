@@ -1,11 +1,12 @@
 h1 {
-	color: red;
+	color: #4286f4;
 	}
 	
 p 	{
-	color: blue;
+	color: rgb(50,90,200);
 	}
 
 ul	{
-	color: orange;
+	color: rgba(0,200,100,0.5);
 	}
+
