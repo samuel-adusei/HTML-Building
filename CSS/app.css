@@ -3,10 +3,15 @@ h1 {
 	}
 	
 p 	{
-	color: rgb(50,90,200);
+	background: #845c36;
 	}
 
 ul	{
 	color: rgba(0,200,100,0.5);
 	}
 
+body {
+	background:	url(http://static.comicvine.com/uploads/original/10/108446/4229996-5412371065-rock-.gif);
+}
+
+	
