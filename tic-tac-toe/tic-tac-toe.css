@@ -1,0 +1,22 @@
+h1	{
+	text-align: center;			<!-- this puts header in the middle -->
+}
+
+table {
+	margin: auto;		<!-- this auto puts the table in the center as its most formulated -->
+}
+
+td {
+	width: 100px;
+	height: 100px;		<!-- this makes each block 100px apart of each other -->
+	}
+	
+.vertical {
+	border-left: 2px solid black;		<!-- using border-left right will have show sides of the table -->
+	border-right: 2px solid black;
+}
+	
+.horizontal	{
+	border-top: 2px solid black;  <!-- same thign -->
+	border-bottom: 2px solid black;
+}
