@@ -1,0 +1,9 @@
+.blue {
+	background: blue;
+	border: 2px solid red;
+}
+
+.orange {
+	background: red;
+	border: 2px solid blue;
+}
